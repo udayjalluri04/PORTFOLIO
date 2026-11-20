@@ -1,15 +1,27 @@
-# Jalluri Uday — Soft Lavender Developer Portfolio
+# Jalluri Uday — Developer Portfolio
 
-Responsive light portfolio with soft lavender accents, HTML, CSS, and vanilla JavaScript.
+A responsive, soft-lavender developer portfolio built with HTML, CSS, and vanilla JavaScript.
 
-## Run
-1. Extract this ZIP and open the folder in VS Code.
-2. Open `index.html` in your browser, or use the Live Server extension.
+## Features
 
-## Customize before publishing
-- Replace generic GitHub and LinkedIn links with your profile URLs.
-- Replace each project link with the actual repository/demo.
-- Add your real resume PDF in this folder and name it `resume.pdf`.
-- Verify project details and skill lists before publishing.
+- Responsive desktop and mobile layout
+- About, skills, projects, education, resume, and contact sections
+- GitHub, LinkedIn, email, and resume links
+- Mobile navigation menu and scroll reveal effects
+- Tawk.to live-chat integration
+- Gmail compose-based contact form
 
-The contact links open Gmail compose addressed to the portfolio owner. The contact form prepares a draft with the visitor's details; it does not submit or store messages. Google Fonts are used when internet access is available.
+## Run Locally
+
+1. Open the project in VS Code.
+2. Start the Live Server extension or run `python -m http.server 4173`.
+3. Open `http://127.0.0.1:4173/`.
+
+## Project Links
+
+- [Live portfolio](https://udayjalluri04.github.io/PORTFOLIO/)
+- [GitHub profile](https://github.com/udayjalluri04)
+- [QuickHire repository](https://github.com/udayjalluri04/QUICK-HIRE)
+- [Landslide prediction repository](https://github.com/udayjalluri04/GLOBAL-LANDSLIDE-PREDICTION)
+
+The contact form prepares a Gmail draft; it does not submit or store messages.
